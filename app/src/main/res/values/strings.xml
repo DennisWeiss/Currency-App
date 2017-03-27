@@ -34,4 +34,7 @@
         <item>Turkish Lira</item>
         <item>South African Rand</item>
     </string-array>
+    <string name="appwidget_text">Currency Calculator</string>
+    <string name="add_widget">Add widget</string>
+    <string name="configure">Default currencies</string>
 </resources>
